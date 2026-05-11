@@ -1,6 +1,6 @@
 ## Tediware
 
-This is the home of open source software created and maintained by Tediware, the AI-native electronic data interchange (EDI) platform (https://tediware.com/)
+This is the home of open source software created and maintained by Tediware, the developer-friendly, API-first, AI-native electronic data interchange (EDI) platform (https://tediware.com/)
 
 Tediware's current focus is on two open source projects described below.
 
