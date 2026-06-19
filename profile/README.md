@@ -6,7 +6,7 @@ Tediware's current focus is on two open source projects described below.
 
 ### tediparse
 
-tediparse is a fork of stupidedi. It is a streamlined version of the gem with some important bug fixes and improvements, as well as the removal of all X12 content.
+tediparse is a fork of stupidedi. It is a streamlined version of the gem with some important bug fixes and improvements, as well as the removal of all X12 copyrighted content.
 
 ### tedijson
 
